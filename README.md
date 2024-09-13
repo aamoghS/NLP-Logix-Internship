@@ -1,6 +1,10 @@
 # NLP-Logix-Internship
 
 
+Dataset is below
+https://www.kaggle.com/datasets/maxhorowitz/nflplaybyplay2009to2016
+
+
 Code used during the nlp logix internship, more refined and original
 
 Data visualizations and machine learning code utilized for the NLP Logix Summer Internship.
